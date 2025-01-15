@@ -35,7 +35,7 @@ for end in (nVerts - 1, nVerts - 2):
     path = ([(g.getVertex(v).name) for v in shortest])
 ```
 
-Here is a sample run of the program which is a imitation of apple maps or google maps using the weighted graph data structure. 
+Here is a sample run of the program which is similar in functionality to apple maps or google maps using the weighted graph data structure. 
 ```Jupyter Notebook
 Cities: Seattle, San Francisco, Los Angeles, Denver, Kansas City, Chicago, Boston, New York, Atlanta, Miami, Dallas, Houston
 Enter the start city:  San Francisco
