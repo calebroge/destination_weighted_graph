@@ -36,7 +36,7 @@ for end in (nVerts - 1, nVerts - 2):
 ```
 
 Here is a sample run of the program which is a imitation of apple maps or google maps using the weighted graph data structure. 
-```Python
+```Jupyter Notebook
 Cities: Seattle, San Francisco, Los Angeles, Denver, Kansas City, Chicago, Boston, New York, Atlanta, Miami, Dallas, Houston
 Enter the start city:  San Francisco
 Enter the destination city:  Boston
